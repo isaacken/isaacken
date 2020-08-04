@@ -21,3 +21,5 @@
 - https://www.linkedin.com/in/isaackennedy0
 - https://www.instagram.com/zaackennedy
 - https://twitter.com/zaackennedy
+
+*Disclaimer: My work projects are in private repositories in GitLab, that's why there are currently too little contributions here*
