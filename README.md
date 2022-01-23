@@ -3,10 +3,11 @@
 
 - 🔭 I’m currently studying Computer Science at PUC MG - Poços de Caldas
 - 🖥️ Fullstack Developer
-- 💯 Experience in PHP with Laravel Framework
-- 🚧 Currently learning JS Stack (Node.js, ReactJS & React Native)
+- 💯 Backend experience with PHP + Laravel and Node.js
+- 💯 Frontend experience with ReactJS and Vue.js
+- 🚧 Currently studying C# / ASP.NET and Java
 - 👐 Open for new work opportunities
-- 🧙 RPG entusiast. Call me to a table!
+- 🧙 RPG entusiast. Summon me to a table!
 - ♂ Pronouns: he/him
 
 ## Languages
@@ -21,5 +22,3 @@
 - https://www.linkedin.com/in/isaackennedy0
 - https://www.instagram.com/zaackennedy
 - https://twitter.com/zaackennedy
-
-*Disclaimer: My work projects are in private repositories in GitLab, that's why there are currently too little contributions here*
