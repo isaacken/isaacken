@@ -1,7 +1,7 @@
 ### Hello there 👋
 ## I'm Isaac
 
-- 🔭 I’m currently studying Computer Science at PUC MG - Poços de Caldas
+- 🔭 I’m currently studying System Analysis and Development at Uninter
 - 🖥️ Fullstack Developer
 - 💯 Backend experience with PHP + Laravel and Node.js
 - 💯 Frontend experience with ReactJS and Vue.js
