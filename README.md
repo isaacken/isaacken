@@ -2,10 +2,9 @@
 ## I'm Isaac
 
 - 🔭 I’m currently studying System Analysis and Development at Uninter
-- 🖥️ Fullstack Developer
+- 🖥️ Backend Developer
 - 💯 Backend experience with PHP + Laravel and Node.js
-- 💯 Frontend experience with ReactJS and Vue.js
-- 🚧 Currently studying C# / ASP.NET and Java
+- 💯 Frontend knowledge in ReactJS and Vue.js
 - 👐 Open for new work opportunities
 - 🧙 RPG entusiast. Summon me to a table!
 - ♂ Pronouns: he/him
